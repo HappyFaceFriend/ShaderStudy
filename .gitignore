@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/Assets/3DAssets/3D Game Kit - Character Pack
+/Assets/3DAssets/3D Gamekit - Environment Pack
+/Assets/3DAssets/3D Game Kit - Character Pack.meta
+/Assets/3DAssets/3D Gamekit - Environment Pack.meta
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
