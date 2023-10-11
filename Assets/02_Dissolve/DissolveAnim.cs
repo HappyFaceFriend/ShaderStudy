@@ -22,6 +22,8 @@ public class DissolveAnim : MonoBehaviour
         {
             StartCoroutine(DoAnim(maxValue, minValue));
         }
+
+        material.SetVector("_ParentPosition", transform.position);
     }
 
     IEnumerator DoAnim(float from, float to)
